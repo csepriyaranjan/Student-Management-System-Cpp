@@ -30,7 +30,7 @@ The project utilizes file handling to store student records in a text file, ensu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ErPriyaranjan/Student-Management-System.git
+   git clone https://github.com/csepriyaranjan/Student-Management-System.git
 
 2. Navigate to the project directory:
    ```bash
