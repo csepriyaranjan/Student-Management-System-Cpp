@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <cstring>
-/* www.github.com/ErPriyaranjan */
+/* www.github.com/cseriyaranjan */
 using namespace std;
 
 struct Student {
@@ -209,7 +209,7 @@ int main() {
                 Delete_an_data();
                 break;
             default:
-            cout << "Hi !  www.github.com/ErPriyaranajan ";
+            cout << "Hi !  www.github.com/csepriyaranajan ";
         };
         cin.clear();
         fflush(stdin);
